@@ -184,7 +184,7 @@ img {
     width: 1150px;
     height: 480px;
     float: left;
-    background-color: blueviolet;
+    background-color: white;
     margin-top: 20px;
     margin-left: 90px; 
     background-image: url("https://www.mtn.co.ug/wp-content/uploads/sites/7/2023/01/Bitmap.png") ;
@@ -215,6 +215,8 @@ img {
     margin-left: 80px;
     backdrop-filter: blur(30px);
     border-radius: 10%;
+    border-color: #ffffff10;
+    border-style: groove;
 }
 
 .rano702 {
@@ -226,6 +228,8 @@ img {
     margin-left: 40px;
     backdrop-filter: blur(30px);
     border-radius: 10%;
+    border-color: #ffffff10;
+    border-style: groove;
 }
 
 .rano703 {
@@ -238,6 +242,8 @@ img {
     backdrop-filter: blur(30px);
     border-radius: 10%;
     text-align: center;
+    border-color: #ffffff10;
+    border-style: groove;
 
 }
 
