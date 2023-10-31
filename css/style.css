@@ -27,7 +27,7 @@ img {
 .rano {
 
     width: 1340px;
-    height: 3400px;
+    height: 1900px;
     margin: auto;
     background-color: white;
 }
@@ -362,8 +362,33 @@ nav a:hover {
     background-color: white;
 }
 
+.history{
+    width: 1340px;
+    height: 740px;
+    margin-top: 20px;
+    background-color: white;
 
+}
 
+.ourstrategy{
+    .rano70 {
+        width: 1150px;
+        height: 480px;
+        float: left;
+        background-color: white;
+        margin-top: 20px;
+        margin-left: 90px; 
+        background-image: url("https://www.mtn.co.ug/wp-content/uploads/sites/7/2023/01/Image-Placeholder-3.png") ;
+        background-repeat: no-repeat; 
+        background-size:cover;
+        border-radius: 40px;
+        box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3);
+    
+    
+        
+        
+    }
+}
 .footer {
     width: 1340px;
     height: 400px;
