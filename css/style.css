@@ -204,6 +204,10 @@ nav a:hover {
     background-color: white;
 }
 
+
+
+
+
 .rano70 {
     width: 1150px;
     height: 480px;
@@ -211,7 +215,7 @@ nav a:hover {
     background-color: white;
     margin-top: 20px;
     margin-left: 90px; 
-    background-image: url("https://www.mtn.co.ug/wp-content/uploads/sites/7/2023/01/Bitmap.png") ;
+    background-image: url("https://www.mtn.co.ug/wp-content/uploads/sites/7/2023/03/our-priorities.png") ;
     background-repeat: no-repeat; 
     background-size:cover;
     border-radius: 40px;
@@ -370,24 +374,87 @@ nav a:hover {
 
 }
 
-.ourstrategy{
-    .rano70 {
+.ourstrategy {
+    width: 1340px;
+    height: 540px;
+    margin-top: 20px;
+    background-color: white;
+}
+.strategy{
+    
         width: 1150px;
         height: 480px;
         float: left;
-        background-color: white;
-        margin-top: 20px;
+        background-color:white;
+        margin-top: 10px;
         margin-left: 90px; 
         background-image: url("https://www.mtn.co.ug/wp-content/uploads/sites/7/2023/01/Image-Placeholder-3.png") ;
         background-repeat: no-repeat; 
         background-size:cover;
         border-radius: 40px;
         box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3);
-    
-    
-        
-        
-    }
+
+
+}
+
+
+.strategy1 {
+    width: 1150px;
+    height: 80px;
+    float: left;
+    margin-top: 60px;
+    margin-bottom: -150px;
+}
+
+.strategy2 {
+    width: 300px;
+    height: 240px;
+    float: left;
+    background-color: #ffffff10;
+    margin-top: 180px;
+    margin-left: 80px;
+    backdrop-filter: blur(30px);
+    border-radius: 10%;
+    border-color: #ffffff10;
+    border-style: groove;
+}
+
+.strategy3{
+    width: 300px;
+    height: 240px;
+    float: left;
+    background-color: #ffffff10;
+    margin-top: 180px;
+    margin-left: 40px;
+    backdrop-filter: blur(30px);
+    border-radius: 10%;
+    border-color: #ffffff10;
+    border-style: groove;
+}
+
+.strategy4 {
+    width: 300px;
+    height: 240px;
+    float: left;
+    background-color: #ffffff10;
+    margin-top: 180px;
+    margin-left: 40px;
+    backdrop-filter: blur(30px);
+    border-radius: 10%;
+    text-align: center;
+    border-color: #ffffff10;
+    border-style: groove;
+
+}
+
+
+
+.belief{
+    width: 1340px;
+    height: 340px;
+    margin-top: 50px;
+    background-color: white;
+
 }
 .footer {
     width: 1340px;
